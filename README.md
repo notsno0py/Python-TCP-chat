@@ -1,4 +1,4 @@
-#A Small Encrypted TCP Chat Room
+# A Small Encrypted TCP Chat Room
 
 A multi-client, real-time TCP chat room application built in Python, featuring a Tkinter graphical user interface, multithreaded socket networking, and end-to-end Fernet symmetric encryption.
 
